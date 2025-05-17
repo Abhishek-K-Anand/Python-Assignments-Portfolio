@@ -44,7 +44,7 @@ This repository contains a series of Python projects, including web development 
 - [Flask Registration Form Project](Flask-Registration_form_project/)  
   🔗 [Download Zip (Google Drive)](https://drive.google.com/file/d/1zK369Bq3H4JXG9dhrXRasRZ7hgznh34F/view?usp=sharing)
 
-- [Updated_Flask_Registration_login_project](Updated_Flask_Registration_login_project
+- [Updated_Flask_Registration_login_project](Updated_Flask_Registration_login_project/)
 
    🔗 [Download Zip (Google Drive)](https://drive.google.com/file/d/1gOFX4Mu8fUroYNZmcQB5xxNdx-I99em5/view?usp=sharing)
 
